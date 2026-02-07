@@ -134,3 +134,4 @@ Code formatting: [CodeMaid.config](CodeMaid.config), [Settings.XamlStyler](Setti
 - GenshinImpact
 - GenshinAssistant
 - GenshinImpactAssistant
+- GenshinImpactBetter
