@@ -4,36 +4,7 @@
 <div align="center">
   <h1 align="center">
     <a href="https://bettergi.com/"><img src="https://img.alicdn.com/imgextra/i4/2042484851/O1CN016PuRSW1lhoOl4tcHS_!!2042484851.png" width="190" alt="BetterGI Logo"></a>
-    <br/>
-    🎮 <a href="https://bettergi.com/">BetterGI</a>
-  </h1>
-  <a href="https://trendshift.io/repositories/5269" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5269" alt="babalae%2Fbetter-genshin-impact | Trendshift" style="width: 200px; height: 46px;" width="250" height="46"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/latest/runtime"><img alt="Windows" src="https://img.shields.io/badge/platform-Windows-blue?logo=windowsxp&style=flat-square&color=1E9BFA" /></a>
-  <a href="https://github.com/babalae/better-genshin-impact/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/babalae/better-genshin-impact/total?logo=github&style=flat-square&color=1E9BFA"></a>
-  <a href="https://github.com/babalae/better-genshin-impact/releases"><img alt="Release" src="https://img.shields.io/github/v/release/babalae/better-genshin-impact?logo=visualstudio&style=flat-square&color=1E9BFA"></a>
-</div>
-
-<br/>
-
-<div align="center">
-🌟 **Star this repo** to get notifications about new releases! 🔔
-</div>
-
-<div align="center">
-  <a href="#">
-    <img src="https://img.alicdn.com/imgextra/i1/2042484851/O1CN01OL1E1v1lhoM7Wdmup_!!2042484851.gif" alt="Star Animation" width="186" height="60">
-  </a>
-</div>
-
-<br/>
-
-[English](./Docs/readme_en.md) | [简体中文](./README.md) | [繁體中文](./Docs/readme_tcn.md)  
-**BetterGI · A Better Genshin Impact** – A computer vision project aiming to enhance your Genshin Impact experience! 🤖
+    
 
 ## ✨ Features
 
