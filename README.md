@@ -128,3 +128,9 @@ Code formatting: [CodeMaid.config](CodeMaid.config), [Settings.XamlStyler](Setti
 ## 🐛 Feedback
 *   [GitHub Issues](https://github.com/babalae/better-genshin-impact/issues)
 *   QQ Group: [1051494685](https://qm.qq.com/q/TPQtZlgraU) 💬
+
+## Keywords
+- GenshinTools
+- GenshinImpact
+- GenshinAssistant
+- GenshinImpactAssistant
